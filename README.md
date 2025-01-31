@@ -26,7 +26,7 @@ A modern Point of Sale (POS) interface for managing service-based transactions, 
 1. Clone repository:
    ```bash
    git clone https://github.com/shreyanshtri26/ServicePOS.git
-   cd service-pos
+   cd ServicePos
    ```
 2. Install dependencies:
    ```bash
