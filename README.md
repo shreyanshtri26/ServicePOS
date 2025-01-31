@@ -1,4 +1,3 @@
-```markdown
 # ServicePOS - Point of Sale Interface for Service Management
 
 A modern Point of Sale (POS) interface for managing service-based transactions, built with React. Designed for fitness studios, wellness centers, and educational institutes to manage service sales with an intuitive interface.
